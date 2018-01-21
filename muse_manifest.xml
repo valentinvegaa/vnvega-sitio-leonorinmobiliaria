@@ -1,0 +1,133 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="leonorinmobiliaria.cl" resolutions="1x" timestamp="1516421992958">
+  <folder name="css">
+    <file name="site_global.css" crc="4240750350"/>
+    <file name="master_pm1.css" crc="266728661" ref="index:ingles"/>
+    <file name="index.css" crc="4280608724" ref="index"/>
+    <file name="ingles.css" crc="3999117791" ref="ingles"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ingles"/>
+    <file name="museutils.js" crc="3803043152" ref="index:ingles"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ingles"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:ingles"/>
+    <file name="webpro.js" crc="242022427" ref="index:ingles"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1893.php" crc="4140134042" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:ingles"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:ingles"/>
+    <file name="require.js" crc="4157109226" ref="index:ingles"/>
+    <file name="form-u2621.php" crc="489662535" ref="ingles"/>
+  </folder>
+  <folder name="images">
+    <file name="fondo.jpg" crc="4182810521" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="logo-06.png" crc="3866587760" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="banderas-02.png" crc="305262864" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="español.png" crc="3763836764" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="4.jpg" crc="246442823" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4035345379" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="3.jpg" crc="88910347" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="10.jpg" crc="497072202" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="leyenda español-02.png" crc="394893156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa tamaño justo-01.png" crc="200280214" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="linea-02.png" crc="3926046816" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+      <caption webpage="ingles" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="lista 1.jpg" crc="318058432" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="lista 2.jpg" crc="4240188269" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="lista 3.jpg" crc="516476839" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="whatsapp image 2017-12-11 at 114915 am (1).jpg" crc="348430616" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="whatsapp image 2017-12-11 at 114915 am.jpg" crc="248323047" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="whatsapp image 2017-12-11 at 12853 pm.jpg" crc="34712667" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="nanci grises.jpg" crc="117196077" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="raúl araya.jpg" crc="269383994" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="629ca95b-8d24-4485-84e6-32019a607732.jpg" crc="383848654" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="captura.jpg" crc="396229607" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="9eb6c469-4c38-488e-a910-b9817b368e15.jpg" crc="76413232" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="correo-12.png" crc="329274220" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="f-10.png" crc="3938134090" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="yt-11.png" crc="267574527" seo="true" ref="index:ingles">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+    </file>
+    <file name="leyenda ingles-02.png" crc="127051165" seo="true" ref="ingles">
+      <caption webpage="ingles" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3924080588" seo="true" mt="1516420917042" redirect="true"/>
+  <file name="ingles.html" crc="77412610" seo="true" mt="1516421968728" redirect="true"/>
+</manifest>
